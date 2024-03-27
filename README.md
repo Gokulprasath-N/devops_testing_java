@@ -1,1 +1,0 @@
-# devops_testing_java
